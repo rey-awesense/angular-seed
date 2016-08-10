@@ -1,0 +1,10 @@
+.DS_Store
+
+# User-specific folders
+.idea
+
+# Dependency directories
+node_modules
+
+# npm debug log
+npm-debug.log
